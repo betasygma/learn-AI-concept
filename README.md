@@ -1,1 +1,1 @@
-# learn-AI-concept
+# Learn AI concept
